@@ -3,6 +3,7 @@ Sentiment Analysis using a variety of Classifiers, and two RNNs with performance
 
 Part 1:
   Classifiers used:
+  
     - Baies Naive.
     - Multinomial Baies Naive.
     - Bernoulli Baies Naive.
